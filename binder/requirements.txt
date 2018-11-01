@@ -1,0 +1,5 @@
+pymc3
+pandas
+scipy
+seaborn
+theano
